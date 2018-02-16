@@ -8,6 +8,18 @@ TagManager:
   - RoutineTab
   - GesundheitTab
   - TrainingTab
+  - UebersichtTab
+  - HabitTab1
+  - HabitTab2
+  - HabitTab3
+  - RoutineTab1
+  - RoutineTab2
+  - RoutineTab3
+  - GesundheitTab1
+  - GesundheitTab2
+  - TrainingTab1
+  - TrainingTab2
+  - TrainingTab3
   layers:
   - Default
   - TransparentFX
